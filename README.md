@@ -1,6 +1,7 @@
 # YURT OTOMASYONU
 Yurt otomasyonu yurttaki öğrencilerin bilgilerini tutan, yurt işlemlerini otomatikleştirerek yurt yöentimini kolaylaştıran bir masaüstü uygulamasıdır.
-Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Dönem Projesi
+
+Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve Tasarımı Dersi Dönem Projesi
 
 #Uygulamada 2 farklı giriş seçeneğinin yanı sıra 2 farklı dilde de giriş yapılabiliyor#
 ![giriş](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/01f6bed8-b585-48cf-bbbe-f68c987c98f6)
