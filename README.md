@@ -1,5 +1,4 @@
 # YURT OTOMASYONU
-
 #Uygulamada 2 farklı giriş seçeneğinin yanı sıra 2 farklı dilde de giriş yapılabiliyor#
 ![giriş](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/01f6bed8-b585-48cf-bbbe-f68c987c98f6)
 
@@ -28,9 +27,3 @@
 
 #Personel Şifre İşlemleri#
 ![personelsifreekrani](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/40cb4fdb-53c5-4e61-81fd-2699d339c813)
-
-#!Bu Proje C# ve SQL dillerini öğrenmek için hazırladım#
-
-#VERİ TABANI (DİPNOT Hala EntityFreamwork öğreniyorum bu yüzden bir sonraki projelerimde daha iyisini yapmaya çalışacağım)#
-
-
