@@ -17,7 +17,8 @@
 ![giderler](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/d738bc5c-ba44-4bbd-9341-dc3e0f02a67e)
 
 #Giderlerin istatistikleri#
-![gideristatistik](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/fcef452c-b89d-4bbc-87f21a190a1067e9)
+![gideristatistik](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/7776564f-df21-4fa2-8c0a-2ecbcf92be7d)
+
 
 #Gelirlerin İstatistikleri#
 ![geliristatistik](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/b6aa8bcb-bdc5-45c0-94df-887ad79c6765)
