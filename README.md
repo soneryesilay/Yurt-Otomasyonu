@@ -1,1 +1,1 @@
-# YurtKayitOtomasyon
+# SİSTEM ANALİZİ DÖNEM PROJESİ
