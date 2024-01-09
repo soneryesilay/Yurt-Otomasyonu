@@ -32,4 +32,4 @@ Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve T
 #Personel Şifre İşlemleri#
 ![personelsifreekrani](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/40cb4fdb-53c5-4e61-81fd-2699d339c813)
 
-#Ve daha bir çoğu mevcut hepsini ekleyemedim :)#
+#Ve daha bir çoğu...#
