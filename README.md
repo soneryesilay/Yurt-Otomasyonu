@@ -7,7 +7,6 @@ Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve T
 ![giriş](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/01f6bed8-b585-48cf-bbbe-f68c987c98f6)
 
 #Admin kullanıcısı ana formu#
-![anaform](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/fdb725ab-bd4b-4332-a448-b61901bee42c)
 
 #Öğrenci kaydı oluşturma#
 ![ogrkaydet](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/9e6e3c08-412a-4a53-acfa-b44472102b97)
@@ -27,7 +26,6 @@ Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve T
 ![geliristatistik](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/b6aa8bcb-bdc5-45c0-94df-887ad79c6765)
 
 #Personel ana formu#
-![personelanaform](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/ba23b5d8-7626-41f9-84f1-2b73675b4d38)
 
 #Personel Şifre İşlemleri#
 ![personelsifreekrani](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/40cb4fdb-53c5-4e61-81fd-2699d339c813)
