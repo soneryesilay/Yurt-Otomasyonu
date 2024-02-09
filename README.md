@@ -1,5 +1,5 @@
 # YURT OTOMASYONU
-Yurt otomasyonu yurttaki öğrencilerin bilgilerini tutan, yurt işlemlerini otomatikleştirerek yurt yöentimini kolaylaştıran bir masaüstü uygulamasıdır.
+Yurt otomasyonu yurttaki öğrencilerin bilgilerini tutan, yurt işlemlerini otomatikleştirerek yurt yönetimini kolaylaştıran bir masaüstü uygulamasıdır.
 
 Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve Tasarımı Dersi Dönem Projesi
 
