@@ -46,9 +46,9 @@ Ve daha birçok ekran bulunmaktadır.
 
 Clone the project:
 ```bash
-   git clone https://github.com/soneryesilay/Yurt-Otomasyonu.git
+git clone https://github.com/soneryesilay/Yurt-Otomasyonu.git
 ```
 Navigate to the project directory and compile/run the project:
 ```bash
-  dotnet run
+dotnet run
 
