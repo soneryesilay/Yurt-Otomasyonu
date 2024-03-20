@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the project:**
    ```bash
-   git clone https://github.com/soneryesilay/BookStoreAppAPI.git
+   git clone https://github.com/soneryesilay/Yurt-Otomasyonu.git
 
 Navigate to the project directory and compile/run the project:
   ````bash
