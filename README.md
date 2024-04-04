@@ -41,11 +41,6 @@ Ve daha birçok ekran bulunmaktadır.
 
 ## Repository'yi Kullanma
 
-Projeyi klonlayın:
-```bash
-git clone https://github.com/soneryesilay/Yurt-Otomasyonu.git
-
-
 ## Utilizing the Repository
 
 Clone the project:
