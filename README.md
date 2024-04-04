@@ -20,9 +20,6 @@ Admin kullanıcısının ana formu.
 ![Bölümler](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/7efaa565-ab61-48dc-82e1-6436fee89cff)
 ![Odalar](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/c87bc96e-45b1-41ba-bb64-8a0ebb068562)
 
-## Yurt Giderleri
-Yurt giderleri ekranı.
-![Yurt Giderleri](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/d738bc5c-ba44-4bbd-9341-dc3e0f02a67e)
 
 ## Giderlerin İstatistikleri
 Giderlerin istatistikleri ekranı.
