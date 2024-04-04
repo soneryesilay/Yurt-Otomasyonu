@@ -1,5 +1,6 @@
 # YURT OTOMASYONU
-Yurt otomasyonu, yurttaki öğrencilerin bilgilerini tutan, yurt işlemlerini otomatikleştirerek yurt yönetimini kolaylaştıran bir masaüstü uygulamasıdır.
+
+Yurt otomasyonu, öğrencilerin bilgilerini yöneten ve yurt işlemlerini otomatikleştirerek yönetimi kolaylaştıran bir masaüstü uygulamasıdır.
 
 Bu proje, Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve Tasarımı Dersi Dönem Projesi olarak geliştirilmiştir.
 
@@ -20,7 +21,6 @@ Admin kullanıcısının ana formu.
 ![Bölümler](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/7efaa565-ab61-48dc-82e1-6436fee89cff)
 ![Odalar](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/c87bc96e-45b1-41ba-bb64-8a0ebb068562)
 
-
 ## Giderlerin İstatistikleri
 Giderlerin istatistikleri ekranı.
 ![Gider İstatistik](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/7776564f-df21-4fa2-8c0a-2ecbcf92be7d)
@@ -35,9 +35,16 @@ Personel ana formu.
 
 ## Personel Şifre İşlemleri
 Personel şifre işlemleri ekranı.
-![Personel Şifre İşlemleri](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/40cb4fdb-53c5-4e61-81fd-2699d339c813)
+![Personel Şifre İşlemleri](https://github.com/soneryesilay/Yurt-Otomasyonu/assets/122547220/40cb4fdb-53c5-4e61-81fd-2699d339c813)
 
 Ve daha birçok ekran bulunmaktadır.
+
+## Repository'yi Kullanma
+
+Projeyi klonlayın:
+```bash
+git clone https://github.com/soneryesilay/Yurt-Otomasyonu.git
+
 
 ## Utilizing the Repository
 
