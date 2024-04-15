@@ -29,9 +29,6 @@ Giderlerin istatistikleri ekranı.
 Gelirlerin istatistikleri ekranı.
 ![Gelir İstatistik](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/b6aa8bcb-bdc5-45c0-94df-887ad79c6765)
 
-## Personel Ana Formu
-Personel ana formu.
-![Personel Ana Formu](https://github.com/soneryesilay/Yurt-Otomasyonu/assets/122547220/18a52d11-ea97-44c9-b33c-d1c786fd4094)
 
 ## Personel Şifre İşlemleri
 Personel şifre işlemleri ekranı.
@@ -39,7 +36,6 @@ Personel şifre işlemleri ekranı.
 
 Ve daha birçok ekran bulunmaktadır.
 
-## Repository'yi Kullanma
 
 ## Utilizing the Repository
 
