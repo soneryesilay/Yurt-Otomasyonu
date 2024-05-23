@@ -17,7 +17,7 @@ Bu proje, Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem An
 Uygulamaya 2 farklı giriş seçeneği ve 2 farklı dilde giriş yapılabilir.
 ![Giriş Ekranı](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/01f6bed8-b585-48cf-bbbe-f68c987c98f6)
 
-
+---
 Admin kullanıcısının ana formu.
 ![Admin Ana Formu](https://github.com/soneryesilay/Yurt-Otomasyonu/assets/122547220/994abb91-0efe-4d14-afe5-b3d7074a66b0)
 
