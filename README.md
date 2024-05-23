@@ -1,5 +1,7 @@
 # YURT OTOMASYONU
 
+##Proje Hakkında 
+
 Yurt otomasyonu, öğrencilerin bilgilerini yöneten ve yurt işlemlerini otomatikleştirerek yönetimi kolaylaştıran bir masaüstü uygulamasıdır.
 
 Bu proje, Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve Tasarımı Dersi Dönem Projesi olarak geliştirilmiştir.
