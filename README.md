@@ -10,6 +10,7 @@ Bu proje, Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem An
 - C# 
 - MSSQL
 - Ado.net 
+- Localization 
 
 # Proje görselleri 
 
