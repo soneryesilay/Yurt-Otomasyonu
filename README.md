@@ -1,6 +1,6 @@
 # YURT OTOMASYONU
 
-##Proje Hakkında 
+## Proje Hakkında 
 
 Yurt otomasyonu, öğrencilerin bilgilerini yöneten ve yurt işlemlerini otomatikleştirerek yönetimi kolaylaştıran bir masaüstü uygulamasıdır.
 
