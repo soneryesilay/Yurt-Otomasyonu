@@ -21,6 +21,7 @@ Uygulamaya 2 farklı giriş seçeneği ve 2 farklı dilde giriş yapılabilir.
 Admin kullanıcısının ana formu.
 ![Admin Ana Formu](https://github.com/soneryesilay/Yurt-Otomasyonu/assets/122547220/994abb91-0efe-4d14-afe5-b3d7074a66b0)
 
+--
 
 Öğrenci kaydı oluşturma ekranı.
 ![Öğrenci Kaydı Oluşturma](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/9e6e3c08-412a-4a53-acfa-b44472102b97)
