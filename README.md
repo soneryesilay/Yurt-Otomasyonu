@@ -6,6 +6,13 @@ Yurt otomasyonu, öğrencilerin bilgilerini yöneten ve yurt işlemlerini otomat
 
 Bu proje, Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve Tasarımı Dersi Dönem Projesi olarak geliştirilmiştir.
 
+## Proje İçeriği 
+-C# 
+-MSSQL
+-Ado.net 
+
+# Proje görselleri 
+
 ## Giriş Ekranı
 Uygulamaya 2 farklı giriş seçeneği ve 2 farklı dilde giriş yapılabilir.
 ![Giriş Ekranı](https://github.com/soneryesilay/Yurt_Otomasyonu/assets/122547220/01f6bed8-b585-48cf-bbbe-f68c987c98f6)
