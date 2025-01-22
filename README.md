@@ -7,7 +7,7 @@ Yurt otomasyonu, öğrencilerin bilgilerini yöneten ve yurt işlemlerini otomat
 Bu proje, Trakya Üniversitesi Bilgisayar Programcılığı 2. Sınıf Sistem Analizi ve Tasarımı Dersi Dönem Projesi olarak geliştirilmiştir.
 
 ## Proje İçeriği 
-- C# 
+- C# Form
 - MSSQL
 - Ado.net 
 - Localization 
